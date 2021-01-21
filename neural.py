@@ -236,7 +236,7 @@ minmax = minMaxFromData(dataset)
 normalizeDataset(dataset, minmax)
 
 # evaluate algorithm
-numberOfFolds = 5
+numberOfFolds = 6
 learningRate = 0.3
 numberOfEpochs = 500
 numberOfHiddenLayers = 5
