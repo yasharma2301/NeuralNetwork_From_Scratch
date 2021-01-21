@@ -1,5 +1,5 @@
 # Neural Network From Scratch
-This repository demonstrates a simple neural neural network coded from scratch in python. Moreover at the end, algorithm is applied over a real world dataset to solve a use case.
+This repository demonstrates a simple neural network coded from scratch in python. Moreover at the end, algorithm is applied over a real world dataset to solve a use case.
 
 Link to dataset used for demonstration: http://archive.ics.uci.edu/ml/datasets/seeds
 
